@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Better types for SQLite"
+date: 2023-02-09 20:15:00 -0500
+---
+
 # SQLite type safety
 
 I love [SQLite][sqlite] but one of my biggest gripes with it is the dynamic type
