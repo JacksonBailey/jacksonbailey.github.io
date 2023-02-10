@@ -20,7 +20,8 @@ I am a developer, professionally in Java but poke around in other stuff as a hob
 
 ### Professional summary
 
-- Dec 2019 - Present: Lead Java Engineer at Ondot Systems, Inc.
+- May 2021 - Present: Senior Software Engineer at Happy Money
+- Dec 2019 - May 2021: Lead Java Engineer at Ondot Systems, Inc.
 - Jul 2019 - Dec 2019: Tribe Architect at Equifax
 - Aug 2017 - Jul 2019: Senior Dev and Technical Lead at Equifax
 - Sep 2015 - Aug 2017: Intermediate Dev at Equifax
